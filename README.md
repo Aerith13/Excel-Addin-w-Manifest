@@ -1,1 +1,1 @@
-manifest validating.... where?
+the manifest is somewhere within my repositories 🤡
