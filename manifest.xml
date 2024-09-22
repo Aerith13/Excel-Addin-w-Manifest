@@ -12,7 +12,7 @@
     <Host Name="Workbook" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://localhost:3000/index.html" />
+    <SourceLocation DefaultValue="https://aerith13.github.io/Excel-Add-in-w-Manifest/" />
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
